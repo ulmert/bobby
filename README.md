@@ -4,7 +4,7 @@ A glitchy drum machine for the **Korg Nu:Tekt NTS-1** featuring 8 and 12-bit sam
 A + B encoders are used to control the volume for the two sets of sample groups (kick + snare + other / hi-hats).
 Accessing the oscillator parameters, each group can also be tuned individually in addition to applying random repeat and pitch.
 
-Note that a sample will not be triggered until a note off event has been received for the previous one.
+Note that a sample will not be triggered until a note off event has been received for the previous one. For "best" results, EG should also be set to Open mode.
 
 A short demonstration can be viewed here:
 
