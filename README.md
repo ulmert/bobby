@@ -6,6 +6,8 @@ Accessing the oscillator parameters, each group can also be tuned individually i
 
 Note that a sample will not be triggered until a note off event has been received for the previous one. For "best" results, EG should also be set to Open mode.
 
+Upload [bobby.ntkdigunit](bobby.ntkdigunit) using the NTS-1 digital Librarian application.
+
 A short demonstration can be viewed here:
 
 [![](http://img.youtube.com/vi/v_DE3kfGsUU/0.jpg)](http://www.youtube.com/watch?v=v_DE3kfGsUU)
